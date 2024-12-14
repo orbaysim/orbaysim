@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orbaysim
 - 👀 I’m interested in python algorithms and game developement
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python ... (Basically everything)
-- 💞️ I’m looking to collaborate on my website and thesis.
+- 🌱 I’m an indie game developer who wants to extend his studio
+- 💞️ I’m looking to collaborate developing games
 
 <!---
 orbaysim/orbaysim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
